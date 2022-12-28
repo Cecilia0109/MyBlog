@@ -8,7 +8,7 @@ const Header = () => {
       <div className='flex items-center space-x-2'>
         <Link href="/">
             <Image 
-                src="https://links.papareact.com/1m8"
+                src="Myphoto.jpg"
                 width={50}
                 className="rounded-full"
                 height={50}
