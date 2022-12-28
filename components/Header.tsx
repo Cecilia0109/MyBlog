@@ -8,9 +8,9 @@ const Header = () => {
       <div className='flex items-center space-x-2'>
         <Link href="/">
             <Image 
-                src="Myphoto.jpg"
+                src="/Myphoto.jpg"
                 width={50}
-                className="rounded-full"
+                className="rounded-full object-cover"
                 height={50}
                 alt="logo"
             />
@@ -20,7 +20,7 @@ const Header = () => {
       <div>
         <Link href="google.com" className='px-5 py-3 text-sm md:text-base bg-gray-900 text-[#f7ab0a] flex items-center rounded-full text-center'
         >
-        Enjoy the fun of coding
+        Contact Me
         </Link>
       </div>
     </header>

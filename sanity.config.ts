@@ -13,8 +13,8 @@ const dataset= process.env.NEXT_PUBLIC_SANITY_DATASET!;
 
 export default defineConfig({
   basePath:"/studio",
-  name: 'My daily blog',
-  title: 'My daily blog',
+  name: 'MyDailyBlog',
+  title: 'My Daily Blog',
   projectId,
   dataset,
   plugins: [deskTool({
