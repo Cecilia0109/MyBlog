@@ -13,8 +13,8 @@ const dataset= process.env.NEXT_PUBLIC_SANITY_DATASET!;
 
 export default defineConfig({
   basePath:"/studio",
-  name: 'PAPAFAM_Content_Studio',
-  title: 'PAPAFAM Content Studio',
+  name: 'My daily blog',
+  title: 'My daily blog',
   projectId,
   dataset,
   plugins: [deskTool({

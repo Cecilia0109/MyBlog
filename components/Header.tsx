@@ -15,12 +15,12 @@ const Header = () => {
                 alt="logo"
             />
         </Link>
-        <h1>The Papafam</h1>
+        <h1>Cecilia's Blog</h1>
       </div>
       <div>
         <Link href="google.com" className='px-5 py-3 text-sm md:text-base bg-gray-900 text-[#f7ab0a] flex items-center rounded-full text-center'
         >
-        signup to the university of code
+        Enjoy the fun of coding
         </Link>
       </div>
     </header>
