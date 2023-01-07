@@ -9,7 +9,7 @@ const Banner = () => {
         {/* <span className='underline decoration-4 decoration-[#F7AB0A]'>My Blogs</span> {" "}
         favorite blog */}
       </div>
-      <p className='mt-5 md:mt-2 text-gray-400 max-w-sm'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, commodi.</p>
+      <p className='mt-5 md:mt-2 text-gray-400 max-w-sm'>Always enthusiastic about learning new technologies and writing readable, maintainable and reusable code.</p>
     </div>
   )
 }

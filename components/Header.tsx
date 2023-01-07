@@ -18,7 +18,7 @@ const Header = () => {
         <h1>Cecilia's Blog</h1>
       </div>
       <div>
-        <Link href="google.com" className='px-5 py-3 text-sm md:text-base bg-gray-900 text-[#f7ab0a] flex items-center rounded-full text-center'
+        <Link href="https://my-portfolio-cecilia0109.vercel.app" className='px-5 py-3 text-sm md:text-base bg-gray-900 text-[#f7ab0a] flex items-center rounded-full text-center'
         >
         Contact Me
         </Link>
